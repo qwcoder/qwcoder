@@ -43,15 +43,6 @@
 
 ---
 
-### 📊 Активность в терминале
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qwcoder&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwcoder&layout=compact&theme=radical&hide_border=true" width="41%" />
-</p>
-
----
-
 ### 🧠 Обучение и интересы
 - ⚡ Сейчас углубляюсь в **микросервисную архитектуру** и паттерны проектирования.
 - 🛠 Экспериментирую с **производительностью JVM** и оптимизацией запросов к БД.
